@@ -1,0 +1,76 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+body {
+  background-color: white;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.page {
+  background-color: white;
+  background-image: url('assets/space.png');
+  background-attachment: fixed;
+  font-family: "IBM Plex Mono";
+  font-weight: 300;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.content {
+  background-image: url("assets/seamless_paper_texture.png");
+  padding: 0px;
+  height: 100vh;
+  /*border-image: linear-gradient(red, blue) 10%/10%;*/
+}
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 75%;
+}
+
+#blog-content {
+  overflow-wrap: break-word;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+p, h1, h2, h3 {
+  padding: 20px;
+  margin: 0px;
+}
+
+p:nth-child(odd) {
+  background: rgba(0,128,0,0.3);
+}
+
+input {
+  width: 90%;
+}
+
+.button {
+  border: none;
+  /*text-decoration: none;*/
+  /*display: inline-block;*/
+  background-color: rgba(0, 0, 0, 0);
+  padding: 0px;
+  font-family: "IBM Plex Mono";
+  font-weight: 300;
+  font-size: 16px;
+}

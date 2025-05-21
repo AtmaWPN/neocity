@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "date": "3/12/2025",
+      "title": "Magic: the Gathering",
+      "encrypted": false,
+      "subtitle": null,
+      "content": "<p>Two weeks ago, I asked Soren to teach me Magic: the Gathering. In response, he invited me to the final day of the CEDH league he was running at a local game store. I was interested in MtG for a few reasons, part of it was that I was looking for solutions to the problem I laid out in a previous post, the other part was probably that I had heard about MtG one too many times on Intentionally Blank. Anyway, I went, and after some minor miscommunications about the time, I played Magic for the first time. When Soren arrived he was tired and busy running and participating in his event, but he did introduce me to some of the regulars. Unsurprisingly, basically everyone there knew him. I played Commander with one of the store managers named Chris and a regular named Brandon who let me borrow one of his decks.</p><p>The following Tuesday Soren invited me back for the game store's Magic night. I showed up before him and was able to borrow a deck from someone who's name I forgot and play some more Commander. The game store is packed on Tuesdays, and when Soren arrived he couldn't find a game and had just gotten some wisdom teeth pulled, so he left shortly after arriving. I played a few more games and then bought a preconstructed deck before leaving. I bought the zombie Aetherdrift precon. I've been back twice more since then, both times being a week after one of the previously described instances. I've also been using my 3d printer to make some MtG accessories, I've already printed a <a>life counter</a> and a <a>deck box</a> and I'm planning on printing another that has space for tokens and counters</p><p>All in all, this has been a very positive experience. I can see this local game store becoming my \"third space\". I also enjoy playing Magic, learning the game has been a rewarding experience and I expect it will continue to feel rewarding in the future. The next part I want to try is deckbuilding, but I feel like I want to do that with cards in front of me rather than searching online. I may buy the Foundations Starter Collection to facilitate this. How far will this hobby go? Only time will tell, but a conservative estimate says at least a couple months.</p>"
+    },
+    {
+      "date": "2/25/2025",
+      "title": "test blog post title",
+      "encrypted": false,
+      "subtitle": null,
+      "content": "<p>this is a test blog post lorem ipsum dolor etc.</p><p>this is the second paragraph of the test blog post, it contains <em>italicized</em> text in order to test nested html elements</p>"
+    },
+		{
+			"title": "Life",
+			"date": "2/5/2025",
+			"subtitle": "personal stuff",
+			"encrypted": true,
+			"content": ""
+		},
+		{
+			"title": "Integrated Minecraft",
+			"date": "1/21/2025",
+			"subtitle": "What have I been up to lately?",
+			"encrypted": false,
+			"content": "<p>So I haven't really made any meaningful improvements to this site, but I did start playing the Integrated MC modpack with Ben (and Sofia now). I decided to self-host the server, which was a fun new experience. It's relatively simple all things considered, but it was weirdly difficult to find clear instructions for it, I think as a result of 3rd party hosting services being so popular. The server runs very smoothly for me, but Ben and Sofia were complaining about lag yesterday, so I've lowered the view distance in the server's config file, which should hopefully fix that.</p><p>The modpack itself is primarily a combination of Ars Nouveau, Create, and Integrated Structures, with a bunch of tweaks and supporting mods to tie everything together into one (integrated) experience. Overall it feels much more intentionally designed than other modpacks I've played. I'm really excited to get into Ars Nouveau because it has a complex spell system sort of like Noita. Our first few sessions have been primarily resource gathering and base building, but I'm hoping to get started on some more interesting things this session. I just need to finish setting up some basic farms and then we can go to the nether. A bunch of stuff in the create mod is locked behind the nether because they require blaze burners. I love the create mod, it adds to the base game in such a natural way. I think that has to do with how tactile and physical the contraptions are, everything makes intuitive sense because it's based in reality.</p><p>I'll probably make several more posts about our progress through this mod, at least as long as we keep playing it. I was somewhat hesitant about starting another minecraft playthrough, but this modpack has me hooked in a way few games ever have. Contrary to things I've said in the past, it seems like there might be some experiences that Minecraft is the best medium for. This merits further exploration, another time.</p><p>That's the end of the blog post.</p>"
+		},
+		{
+			"title": "Introductions",
+			"date": "1/16/2025",
+			"subtitle": "What am I doing here? Why am I doing it?",
+			"encrypted": false,
+			"content": "<p>I've rehearsed in my head what I would write here, but now that I'm doing it, I can't remember any of it. Anyway, welcome to my neocities website and blog! I started to want to do something like this (keep a record of myself) for a while now, and I think neocities is the perfect medium for it. As stated I plan to use this blog to keep a record of myself, and I likely will not share this with anyone. I will also intentionally put very little effort or thought into what I post here, as I want to lower the friction of making posts so that I actually make them. I hope that I keep this up, but the odds are definitely in favor of me abandoning this project sometime in the next few weeks.</p><p>Regardless of all that, I will now lay out my plans for the blog with more specificity. I want to make posts about media I consume, things I accomplish, and events in my life, with perhaps a sprinkle of deeper, more personal/philosophical ramblings. These posts should be pretty much stream-of-consciousness, which probably will be awful to read, but should be a more genuine way of expressing myself.</p><p>So, what have I been up to lately? This neocities page of course! I worked on the main page yesterday and decided to start today by making this post so that I didn't put off starting indefinitely. I plan on streamlining the process of making these, though how exactly I do that will depend on the limitations of neocities pages and how I end up organizing the blog section of the site. I want to be able to search and sort these posts on the website, so I've considered putting them all in a json document, but that may make images difficult. Alternatively, if neocities allows me to dynamically grab all the files in a folder, I'll use that instead.</p><p>I'm not sure exactly what style I'm going for for the site. Currently the main page looks like this:</p><img src='/mainPage_2025-01-16.png' height='237' width='381' /><p>The background image is the same image from the JWST that I'm using for my work laptop wallpaper. I want the paper in the middle to look like <a href='https://en.wikipedia.org/wiki/Continuous_stationery'>continuous feed computer paper</a>, so hopefully I can learn enough css to make that happen.</p><p>That's the end of the blog post.</p>"
+		}
+  ]
+}

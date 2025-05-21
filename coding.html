@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATMAWEAPON</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  </head>
+  <body class="page">
+    <div class="center content">
+      <h2>Coding projects small enough to run in the browser!</h2>
+      <h3>Blog Encryptor</h3>
+      <label for="blog-content-input">Blog Content</label><input id="blog-content-input" />
+      <br>
+      <label for="encryption-key-input">Encryption Key</label><input id="encryption-key-input" />
+      <br>
+      <button onclick="encrypt()">submit</button>
+      <h4>Result:</h4>
+      <div id="encrypted-blog-content"></div>
+      
+      <h3>Molek-Syntez Solitaire</h3>
+      <div class="iframe-container">
+        <iframe src="/molek_syntez_solitaire/main.html" style="border:10px;"></iframe>
+      </div>
+      <h3>Canvas Game</h3>
+      <div class="iframe-container">
+        <iframe src="/canvas_game/main.html" style="border:10px;"></iframe>
+      </div>
+      
+      <a href="/">main page</a><br>
+      <a href="https://neocities.org/"><img src="/assets/neocities.png"></a>
+    </div>
+    <script src="/encryptor.js"></script>
+  </body>
+</html>
