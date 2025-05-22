@@ -1,0 +1,80 @@
+{
+	posts: [
+        {
+			"title": "Finished Blog Encryption",
+			"date": "5/21/2025",
+			"subtitle": null,
+			"encrypted": false,
+			"content": "<p>I finished a system for encrypting blog posts</p>"
+		},
+		{
+			"title": "The Roottrees are Dead",
+			"date": "2/24/2025",
+			"subtitle": null,
+			"encrypted": false,
+			"content": "<p>Lately I've been playing The Roottrees are Dead, a detective game where you put together a family tree using an in-game search engine. It's a lot of fun, I beat the base game last night and I'm going to start the expansion "Roottreemania" when I'm done writing this. The basic game loop is as follows: reading through collected pieces of evidence for keywords to search, searching those keywords, getting more keywords and pieces of evidence. This is fairly simple, but it makes for a rewarding experience. This gameloop makes the game different from other detective games in a few key ways:
+	<ol>
+	  <li>Built in difficulty curve. The more pieces of evidence and keywords you find and use to fill out the family tree, the more the search area for new clues expands and the more the number of undiscovered clues diminishes. This can lead to some tedium towards the end but my experience was well balanced enough.</li>
+	  <li>Feeling of player agency. This game empowers the player to self-direct through the game far more than any other detective game that I've played. This is probably also why I cared so much about the story, despite the fact that nothing particularly crazy happens.</li>
+	</ol>
+      The only other thing I have to say about this game for now is that I played it on the recommendation of TLGTW</p>"
+		},
+		{
+			"title": "More personal stuff",
+			"date": "2/18/2025",
+			"subtitle": "I think my soul is rotting?",
+			"encrypted": true,
+			"content": "<p>So. Consistently getting enough sleep has been going fairly well, though there have been some bumps along the way. Last night I stayed up really late reading The Murderbot Diaries and so I was really tired at work (I got to work on time). Then this evening I had one of those naps where you wake up and forget where or when you are. So now I'm writing this at midnight because I know I won't be able to sleep yet. Ben and I have started to get tired of minecraft, which isn't super surprising given the volume at which we were playing it. I started playing Rain World, so he's joined me on that a few times. I'm realizing I titled this post "More Personal Stuff" but what the hell else is a blog supposed to contain? I'll have to address this in future post titles.</p>
+      <p>Anyway, the main topic of this post is something I recently identified in myself as "soul rot". This is difficult to describe but to be clear I'm not talking about the soul in a religious sense but a philosophical one. It's hard to describe because I haven't fully conceptualized it, but that's partly what this post is for. First, the soul: when I say soul I mean the part of me that is beyond external observation, another word for this is consciousness. The rot is, I believe, caused primarily by isolation and a lack of change in my environment. This rot manifests in a lack of motivation and stability, feelings of helplessness, and frequently thinking about non-optimal social interactions and getting a jolt of negative energy. This concept of soul rot also includes the feelings I've been having more and more that I'm "missing something" or that I'm "falling apart". This problem is sort of like global warming in that it is hard to observe things getting worse over small timescales and consequently hard to make improvements over small timescales. So hard, in fact, that I don't have any solutions right now.</p>
+      <p>Here's what a solution to this problem would look like:</p>
+        <ol>
+          <li>It would probably involve social interaction because I think that would help against stagnation. Maybe some kind of volunteer work? Solving the social interaction problem would make this a lot easier, but I think these solutions will go hand in hand.</li>
+          <li>It has to avoid the time issue by either not taking much time, or by being consistently enjoyable. The time issue is the feeling that I don't have enough hours in the day for myself.</li>
+          <li>It can't involve relying on other people for support.</li>
+          <li>It has to avoid the novelty issue. This could be accomplished by either being a system of consistently finding novel activities, or by being an activity that consistently provides novelty on it's own.</li>
+        </ol>
+      <p>I'm getting sleepy so I'm going to end this post here. I'll do a brainstorming session for this sometime in the future.</p>"
+		},
+		{
+			"title": "Life",
+			"date": "2/5/2025",
+			"subtitle": "personal stuff",
+			"encrypted": true,
+			"content": "<p>I'm writing this at work (don't tell my boss) because I don't want to forget this. First some context: over the past several weeks or so, I've felt bad. I guess it sort of started after I got back from christmas vaction, I felt sort of worthless for a variety of reasons and I couldn't motivate myself out of it. One part of this was that all the aspects of my life were starting to feel repetitive. I've always hated that feeling of stagnation. At work I was stuck working on SCORM until it was done. At home I would eat the same foods and play the same games with Ben. This lead almost inevitably to staying up too late and ignoring through my alarm in the morning. This all meant that I had to either be late to work or lethargic at work, frequently both.</p>
+      <p>Anyway, two days ago I made a change: I turned off my morning alarm. This may seem small, but the quality of my sleep has vastly improved. Previously I would wake up to the alarm, turn it off, and get another half hour or two of poor-quality sleep. Now that I'm not doing that, I feel like myself again. Every part of my life feels way better to live, especially work. Now I just need to go to bed early enough to not be late for work! Looking back at what I just wrote, it feels kind of silly, like "oh you were sleep deprived and now you aren't and you feel better? what a shock" but it was hard to recognize that as the main problem because of how it made me feel about the other parts of my life. This is why I felt it so important to write this down before I forgot it</p>
+      <p>The rest of this post is going to be about my minecraft playthrough because that's basically all I've been doing in my free time since the last post. Ben and I have done a lot of exploration and progression through the modpack, we went to the nether, found a nether fortress, followed a mysterious compass to a cool undead king boss, found the Tinker's Citadel, raided an ocean monument, built a storage system, upgraded our spell books, built an xp farm, killed a stage 3 Copper Dragon, and didn't make much progress on building the base. I'm starting to see this as a pattern of Ben's: that he will start a project and let it stall forever without external influence. Maybe that's unfair to him, but I feel like if I want something done I have to make it happen myself. Lately that's exactly what I've been doing, I refactored the Create mod arbitrary manufacturing (individual stations for manual processing), put a door on the house, and have big plans to really take ownership over the basement and ground floor instead of leaving them in their current unfinished state.</p>
+      <p>The Ars Nouveau (I'm getting so good at typing that word) glyph system is great, it's not nearly as expressive as Noita, but that's ok. The first tier of glyphs are focused on utility, which I have made good use of to avoid having any tools in my hotbar. The second tier has more damage focused glyphs, but they are a bit underwhelming except for Firework, which is the only one I've found that can beat Harm in terms of damage per mana. Offensive spellcasting is more the domain of the other spellcasting mod, Iron's Spells and Spellbooks, which uses spell scrolls that you find and inscribe into your spellbook. Regardless, I'm having a good time, the modpack does a good job rewarding mastery over the mechanics.</p>
+      <p>Alright, that's about as much as I feel like writing for now, in-depth discussions of any of these things will have to wait for future posts. That is assuming, of course, that I make any. I have been spending all of my free time playing minecraft, after all.</p>"
+		},
+		{
+			"title": "Integrated Minecraft",
+			"date": "1/21/2025",
+			"subtitle": "What have I been up to lately?",
+			"encrypted": false,
+			"content": "<p>So I haven't really made any meaningful improvements to this site, but I did start playing the Integrated MC modpack with Ben (and Sofia now). I decided to self-host the server, which was a fun new experience. It's relatively simple all things considered, but it was weirdly difficult to find clear instructions for it, I think as a result of 3rd party hosting services being so popular. The server runs very smoothly for me, but Ben and Sofia were complaining about lag yesterday, so I've lowered the view distance in the server's config file, which should hopefully fix that.</p>
+      <p>The modpack itself is primarily a combination of Ars Nouveau, Create, and Integrated Structures, with a bunch of tweaks and supporting mods to tie everything together into one (integrated) experience. Overall it feels much more intentionally designed than other modpacks I've played. I'm really excited to get into Ars Nouveau because it has a complex spell system sort of like Noita. Our first few sessions have been primarily resource gathering and base building, but I'm hoping to get started on some more interesting things this session. I just need to finish setting up some basic farms and then we can go to the nether. A bunch of stuff in the create mod is locked behind the nether because they require blaze burners. I love the create mod, it adds to the base game in such a natural way. I think that has to do with how tactile and physical the contraptions are, everything makes intuitive sense because it's based in reality.</p>
+      <p>I'll probably make several more posts about our progress through this mod, at least as long as we keep playing it. I was somewhat hesitant about starting another minecraft playthrough, but this modpack has me hooked in a way few games ever have. Contrary to things I've said in the past, it seems like there might be some experiences that Minecraft is the best medium for. This merits further exploration, another time.</p>
+      <p>That's the end of the blog post.</p>"
+		},
+		{
+			"title": "Introductions",
+			"date": "1/16/2025",
+			"subtitle": "What am I doing here? Why am I doing it?",
+			"encrypted": false,
+			"content": "<p>I've rehearsed in my head what I would write here, but now that I'm doing it, I can't remember any of it. Anyway, welcome to my neocities website and blog! I started to want to do something like this (keep a record of myself) for a while now, and I think neocities is the perfect medium for it. As stated I plan to use this blog to keep a record of myself, and I likely will not share this with anyone. I will also intentionally put very little effort or thought into what I post here, as I want to lower the friction of making posts so that I actually make them. I hope that I keep this up, but the odds are definitely in favor of me abandoning this project sometime in the next few weeks.</p>
+      <p>Regardless of all that, I will now lay out my plans for the blog with more specificity. I want to make posts about media I consume, things I accomplish, and events in my life, with perhaps a sprinkle of deeper, more personal/philosophical ramblings. These posts should be pretty much stream-of-consciousness, which probably will be awful to read, but should be a more genuine way of expressing myself.</p>
+      <p>So, what have I been up to lately? This neocities page of course! I worked on the main page yesterday and decided to start today by making this post so that I didn't put off starting indefinitely. I plan on streamlining the process of making these, though how exactly I do that will depend on the limitations of neocities pages and how I end up organizing the blog section of the site. I want to be able to search and sort these posts on the website, so I've considered putting them all in a json document, but that may make images difficult. Alternatively, if neocities allows me to dynamically grab all the files in a folder, I'll use that instead.</p>
+      <p>I'm not sure exactly what style I'm going for for the site. Currently the main page looks like this:</p>
+      <img src="/mainPage_2025-01-16.png" height="237" width="381" />
+      <p>The background image is the same image from the JWST that I'm using for my work laptop wallpaper. I want the paper in the middle to look like <a href="https://en.wikipedia.org/wiki/Continuous_stationery">continuous feed computer paper</a>, so hopefully I can learn enough css to make that happen.</p>
+      <p>That's the end of the blog post.</p>"
+		},
+		{
+			"title": "Title",
+			"date": "MM/DD/YYYY",
+			"subtitle": "nullable subtitle",
+			"encrypted": false,
+			"content": "<p>html content</p>"
+		}
+	]
+}
