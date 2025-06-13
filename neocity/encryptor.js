@@ -7,18 +7,20 @@ function encrypt() {
   if (!key.value || !inputContent.value) return;
 
   const regex = /\<[^\>]\>/g;
-  const tags = regex.exec(inputContent.value);
-  // demo code from stackoverflow
-  var re = /bar/g,
-  str = "foobarfoobar";
-  while ((match = re.exec(str)) != null) {
-      console.log("match found at " + match.index);
+  var matches = []
+  while ((match = regex.exec(str)) != null) {
+    console.log("match found at " + match.index);
+    matches.push(match)
   }
 
   let charCodes = [];
   for (let i = 0; i < inputContent.value.length; i++) {
     // if character is in a tag, skip
-    if (tags)
+    var tag = matches.find((it) => i == it.index)
+    if (tag) {
+      i += tag.match.length
+      // TODO: add charCodes from the tag
+    }
 
     charCodes.push(inputContent.value.charCodeAt(i) - key.value.charCodeAt(i % key.value.length));
   }
